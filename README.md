@@ -1,4 +1,4 @@
-apoorv
+HMdb
 ======
 
-A hollywood movies based website.
+Hollywood Movies Database   .
